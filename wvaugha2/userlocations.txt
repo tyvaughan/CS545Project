@@ -1,0 +1,663 @@
+49153;20530;Your favorite IDE
+958464;928106;Italy / United Kingdom
+1892354;2131639;France
+1366;1030;Bellevue, WA, United States
+612124;303277;Shiraz, Iran
+3514372;4300579;Omsk, Russia
+7372811;9964790;Planet Earth
+2252814;2600177;Sarasota, Fl
+29;21;Ohio
+2183;1625;United Kingdom
+1;1;El Cerrito, CA
+5185570;6728328;Berlin, Germany
+1662984;1831729;Coimbatore, Tamil Nadu, India
+393262;168061;Montreal, QC, Canada
+663604;336119;Pittsburgh, PA, United States
+6471733;8643924;Toronto, ON, Canada
+1523776;1653707;London, United Kingdom
+1794113;2003672;Budapest, Hungary
+55102;22378;Kuna, ID
+70;57;Cincinnati, OH
+1278026;1335073;Oslo, Norway
+73810;876228;Helsinki, Finland
+6242384;8304990;USA
+1290264;1350411;Irvine, CA
+2859095;3408600;Hyderabad, Telangana, India
+680031;346479;Prague, Czech Republic
+2564200;913256;Bangalore, India
+757777;395026;Stockholm, Sweden
+2580589;3044553;Highway to Hell
+115;96;Oregon, United States
+1597552;1747770;Russia
+2072700;2367222;Krak&#243;w, Poland
+1843331;2068268;Amsterdam, Netherlands
+680068;346500;London, United Kingdom
+3006597;3603948;San Francisco, CA
+13676;7802;British Columbia, Canada
+123016;42245;Paris, France
+3280953;3978322;Austin, TX, United States
+7110799;9573991;Kyiv city, Ukraine
+5156888;6685463;Lalitpur, Pyangaun -5, Nepal
+25;18;Seattle, WA
+2139438;2453772;Mumbai
+4604054;5843178;Sydney, New South Wales, Australia
+884891;806217;Munich, Germany
+1056922;1053723;Esbjerg, Denmark
+5079196;6571255;New York, NY, United States
+131238;44674;Singapore
+1658617;1825752;Israel
+917672;552770;Switzerland
+1691530;1441746;Bangalore, Karnataka, India
+1212596;1252466;Draper, UT
+1360051;1439492;Iowa City, IA
+1679544;1853512;Myanmar (Burma)
+192;155;Harrogate, England, United Kingdom
+2433215;2831771;Canada
+1223436;1266169;Boston, MA
+1384652;10;Wales, United Kingdom
+3734222;4604322;Berlin, Germany
+622813;310041;Norway
+467170;213666;United States
+427387;188590;Kansas City
+1704166;1285973;Seattle, WA
+172406;57557;London
+3055655;3667729;Earth
+2662639;3148725;University of Cambridge, United Kingdom
+385265;163254;Cape Town, South Africa
+5071090;6559459;Dayton, OH
+2351351;2726422;San Francisco, CA
+8446;5298;London, United Kingdom
+1261825;1314657;Kentucky, United States
+259;206;United Kingdom
+313163;120622;San Francisco, CA
+806956;426001;Birmingham, AL
+2310411;1940875;Chennai, India
+4743213;6075805;Ahmedabad, Gujarat, India
+3776782;4662955;Stockholm, Sweden
+2670864;3159228;Pittsburgh, PA, United States
+4767429;6111148;Pune, India
+1027308;1015704;Stockholm, Sweden
+2760980;2075567;Kohima, India
+1110063;1121891;Stockholm, Sweden
+8482;5313;Brasilia, Brazil
+1102051;1111697;Bray, Ireland
+6750501;9065579;Ottawa, ON, Canada
+2548010;3002881;California, United States
+1058406;1055612;Lahore, Pakistan
+229686;81464;Germany
+934195;897201;Portland, OR
+2097460;2388778;currently unknown
+729403;377342;Brno, Czech Republic
+3653950;4493457;London
+3133493;3771414;Delhi, India
+9611;5846;Israel
+50572;20967;Bergen, Norway
+2786;2028;California
+139607;47180;United Kingdom
+2998612;3417054;Taiwan
+2597212;3065405;Aberdeen, United Kingdom
+2539867;2992610;Budaors, Hungary
+983393;958576;Virginia
+7291240;9842685;Philippines
+3752293;4629352;Lahore, Pakistan
+8741;5433;South Africa
+1933675;2185108;Sweden
+1401202;1495046;Cape Town, South Africa
+1255630;1306793;Austin, TX
+434551;193060;Albuquerque, NM
+5402425;7054555;Vinnytsya, Ukraine
+2892153;3452945;Maryland, United States
+205185;70895;Washington DC metro area (US)
+2425215;2821559;Oklahoma
+4952130;6383531;Athens, Kentrikos Tomeas Athinon, Greece
+1147273;1169855;Spain
+3293579;3996045;London, United Kingdom
+41360;18162;Latvia
+1231450;1103657;Berlin, Germany
+2449814;2853046;Calgary, AB, Canada
+3744499;4618879;Taipei City, Taiwan
+67391;26012;Shanghai, China
+2351523;2726663;Poland
+819272;433747;The Netherlands
+1180080;521184;Turin, Italy
+2531765;2981983;Zurich, Switzerland
+629493;314364;West Coast, USA
+1253826;1304600;Shanghai, China
+428790;189452;Ghent, Oost-Vlaanderen, Belgium
+180685;60505;Algiers, Algeria
+344527;139135;Copenhagen, Denmark
+893394;480267;Pune
+90580;32602;Stockholm, Sweden
+390640;166487;Paris, France
+476;378;Germany
+2580955;3045027;Brno, Czech Republic
+4926;3416;Austin, TX
+1647074;1810996;Ahmedabad, Gujarat, India
+688608;351864;Japan
+770535;403019;California
+1222355;1264838;Columbus, OH
+2209194;2543985;Whitby, Canada
+3572219;4380446;Philippines
+3836;2730;Berlin, Germany
+562222;271602;Rotterdam, Netherlands
+472495;216950;West Mids, UK
+1311262;1377567;Warsaw, Poland
+1917479;2163984;Beijing, China
+5946118;1152810;Mumbai, Maharashtra, India
+1262123;1315038;Bangalore, India
+7429282;10048883;USA
+2794931;3324583;Greece
+568;442;Wichita, KS, United States
+7946807;4941598;Chisinau, Moldova
+572;445;Cambridge, MA, United States
+5774090;7614037;Paris, France
+1753663;1949175;Madison, WI
+18771;10030;Frankfurt, Germany
+1142881;1163881;Zurich, Switzerland
+852555;454767;Toronto, Canada
+5644874;7420171;Vienna, Austria
+8203;5174;Toronto, Canada
+2146894;2463235;New Orleans, LA
+852561;454771;Fort Collins, CO
+4048313;3926501;Spain
+1843805;2068905;SH,China
+582235;284252;Helsinki, Finland
+8217180;11199663;Karlsruhe, Germany
+877165;470135;Orlando, FL
+156261;52306;Newcastle, United Kingdom
+90745;32651;Switzerland
+3408500;4157676;Kerbosynchronous orbit.
+3655102;4495133;India
+371408;155036;San Diego, CA
+492158;229289;Munich, Germany
+1393283;1484796;Odense, Denmark
+3384769;4125505;ahmedabad
+664204;725733;Hamburg, Deutschland
+1475214;1592111;Shanghai, China
+639424;320900;Hyderabad, India
+3908247;4844029;Ithaca, NY
+180892;60581;Melbourne, Australia
+1344154;1134224;Barcelona
+95914;34076;Germany
+439836;196417;Delaware
+1410501;1507451;Gent, Belgi&#235;
+2073257;350127;Bonn, Germany
+598696;294676;Italy
+2622118;3097144;Planet Earth
+909999;541456;The Hague, Netherlands
+631473;315675;Sunnyvale, CA
+1606323;1758673;London, United Kingdom
+197304;67418;Denmark
+2239;1663;Czech Republic
+1744379;1937221;Philippines
+1956558;2215969;Mexico DF
+139985;47283;Australia
+140750;47502;Pacifica, CA, United States
+525010;249156;United Kingdom
+5839652;7710009;Calgary, AB, Canada
+56763;22843;Sweden
+1365028;1446886;Sydney, Australia
+1802974;2015597;Moscow, Russia
+2695909;3191838;Varna, Bulgaria
+3605220;4427008;Italy
+745;579;Adelaide, Australia
+1278855;1336131;Barcelona, Spain
+213736;74370;London, United Kingdom
+869105;465182;Jaipur, India
+5087982;6584993;Florida
+893693;480446;London, United Kingdom
+5178107;6716389;Noida, India
+4121347;5145131;India
+115457;39934;Dallas, TX
+1270530;1325675;Sydney
+3924743;4408109;Arizona
+5481224;7174934;Gorakhpur, Uttar Pradesh, India
+889949;478087;Manchester, United Kingdom
+131;106;Melbourne, Australia
+5608921;7367639;Kathmandu, Nepal
+2222931;2561952;Lisbon, Portugal
+2266586;2617873;Karachi, Pakistan
+1198896;1235176;Seattle, WA, United States
+2761509;2568689;Kyiv, Ukraine
+3826468;4730754;Canada
+2648745;1145364;Canada
+1716669;1900763;Austria
+492336;229394;Bulgaria
+304725;116164;United States
+1426227;1528364;Dublin, Ireland
+934710;897829;Moscow, Russia
+9021;5559;Z&#252;rich, Switzerland
+967484;939070;Ko Pha-ngan Surat Thani Thailand
+834;639;Germany
+3834688;4742393;Bangalore, India
+554464;266729;San Francisco, CA
+1287834;1347354;Needham, MA
+1499972;1623997;M&#225;laga, Spain
+1917782;1931689;Talala, Gir Somnath, Gujarat, India
+1213273;1253308;Denmark
+82780;30359;Seattle, WA
+2696031;534774;Dallas, TX
+7867195;10686920;Limerick, Ireland
+697190;357187;Venice, CA
+2622314;3097385;Manchester, UK
+3474279;4245475;Minneapolis, MN
+541929;259212;Pakistan
+1925997;2175164;Bangalore, Karnataka, India
+82804;30369;Modi&#39;in-Maccabim-Re&#39;ut, Israel
+2540407;2993324;San Jose
+83952;30741;Hong Kong
+43839;18916;Amsterdam, Netherlands
+1343501;1418353;Belgium
+1646671;1810491;Denmark
+565336;273619;Germany
+4710483;5995804;Udaipur City, Central Area, Udaipur, Rajasthan, India
+2228325;2569125;Maryland, United States
+4922045;6339685;Rome, Italy
+753786;392486;Indiana
+2572423;3033907;Philadelphia Area, PA
+4849804;6233951;Kiev
+1048729;1043176;Portugal
+1319084;1387366;Israel
+401584;173110;South Africa / Taiwan
+6685361;8963831;Algiers, Alger, Alg&#233;rie
+114916;39779;Los Angeles, CA, United States
+1073386;1075043;Warsaw, Poland
+244;197;Montreal, Canada
+3088642;3711378;Salt Lake City, Utah
+264;210;Sydney, Australia
+1794316;2003939;Belarus, Minsk
+172363;57542;Vancouver, BC, Canada
+462923;210996;San Jose, CA, United States
+983386;958566;Randwick, Australia
+57695;23121;Surrey, UK
+795446;418725;Colombo, Sri Lanka
+1458552;1570833;Europe
+500104;234137;In your code
+1057202;1054115;Delhi, India
+790811;415799;tehran , iran
+1934182;2185720;Mumbai, India
+778719;408203;Sydney, Australia or Bristol, England
+473;376;Chandigarh, India
+4367223;2056707;England
+139802;47235;Leuven, Belgium
+562769;271958;Karlsruhe, Germany
+814145;430604;Connecticut
+4866624;5225321;Islamabad, Islamabad Capital Territory, Pakistan
+1106514;1117493;Brooklyn, NY
+1647226;1811180;Berlin, Germany
+69742;26703;Denver, CO, United States
+4343241;5274437;Savannah, GA, United States
+336578;134440;Cluj-Napoca, Cluj County, Romania
+1196752;1232478;Monza, Italy
+6726364;9027531;Bangalore, Karnataka, India
+2712301;3212675;Edinburgh
+1237747;1284350;Lithuania
+1040092;1031918;Fort Worth, TX
+631619;315778;Cambridge, MA
+124339;42657;Austin, TX
+2050262;499132;Hyderabad, India
+189292;64051;United States
+1732709;1921256;Prague, Czech Republic
+67219;25971;Amsterdam, The Netherlands
+3548035;4346143;Bangalore, Karnataka, India
+107409;37565;London, United Kingdom
+6284179;8368301;Delhi, India
+1000343;948131;Buffalo, NY
+66465;25750;Gardanne, France
+1024927;1012722;China
+749722;389959;Boston, MA
+1270695;1325902;Chennai, India
+1581993;1727679;Sydney, Australia
+1541036;1675347;San Francisco, CA
+4662189;5759546;Manchester, United Kingdom
+4383667;5520546;United States
+435129;193414;Oxford, United Kingdom
+6784133;9117452;Earth, TX, United States
+484290;224452;Mauritius
+230340;81741;Netanya, Israel
+107459;37579;Vancouver, Canada
+2100044;1410211;New York, United States
+1123275;1138802;Birmingham, United Kingdom
+3646408;4482792;New Delhi
+974;746;Scotland, United Kingdom
+484304;224461;New York
+2203311;2536272;Rockville, MD, United States
+2016221;2294362;Poland
+120330;41415;Netherlands
+9191;5638;Sweden
+2424999;2821295;Bangalore, India
+1745902;1939348;Japan
+3990506;4958598;St. Petersburg, Florida, United States
+926705;887660;London
+582644;284495;Brazil
+500729;234520;Romania
+4137985;5168748;Nantes, France
+353278;144321;Houston, TX
+24039;12256;Toronto, Ontario, Canada
+3712008;4572739;Cambridge, MA, United States
+168367;56218;Belarus
+3474946;4020013;Las Vegas, NV, United States
+902161;485697;Pune, India
+2229277;2570372;Atlanta, GA, United States
+2506927;2925511;Croatia
+5678111;7430083;S&#227;o Paulo, Brazil
+1492005;1613746;Boise, ID
+25645;12902;Israel
+115751;40019;United States
+2810928;3345739;Lithuania
+28158;13896;London, United Kingdom
+16974;9232;Toulouse, France
+132162;19570;W&#252;rzburg, Germany
+2401348;2791136;Rabat, Rabat-Sal&#233;-Zemmour-Za&#235;r, Maroc
+238671;85655;Italy
+2663502;3149849;Fort Worth, Texas
+505088;237126;Ulverston, United Kingdom
+877651;470443;Norwalk, CT, United States
+336983;134691;Dublin, Ireland
+1049688;1044381;Leamington, United Kingdom
+107613;37621;Italy
+1156192;1181315;Los Angeles, CA
+5866591;1041208;India
+5004;3467;Taiwan
+3749393;1826422;Boulder, CO
+2483313;2895425;Nuremberg, Germany
+408393;177214;Chongqing
+369775;154083;Irvine, CA
+473961;217916;Sydney, Australia
+1590389;1738331;London
+5620851;3836319;India
+249634;90740;India
+1467514;1582463;Cape Cod
+6068;4105;United Kingdom
+574591;279438;Berlin
+3362;2417;London, England, United Kingdom
+1234454;969019;United Kingdom
+3867787;470837;Frankfurt, Germany
+1279116;1336488;Augsburg
+74896;28155;United States
+427158;188419;Frankfurt Rhine-Main Metropolitan Region
+1156245;1181375;London
+1115290;1128638;Israel
+1311902;1378402;Pune, Maharashtra, India
+2969277;3555378;Lithuania
+829571;440158;London, United Kingdom
+1107109;1118271;Zurich, Switzerland
+42523;18528;Florida
+2581673;3046047;Canada
+1508529;1634731;Frankfurt am Main, Deutschland
+428916;189531;Omaha, NE
+5399734;6083264;Shanghai, China
+2352671;2728226;Outer Eastern Rim
+1320129;1388785;UK
+5031114;6499866;HSR Layout, Bengaluru, Karnataka, India
+2129654;2157585;Gdansk
+1574104;1717310;Israel
+1238230;377839;US
+233679;83324;Pakistan
+1951;1462;United Kingdom
+5244131;6815167;Wading in the velvet sea
+783911;411459;Bangalore/Mangalore
+1533164;1665723;Regina, Canada
+3278063;3974564;Pohang-si, South Korea
+14966;8332;Sydney, Australia
+3073272;3690624;Bangalore, Karnataka, India
+66814;25858;New York, NY
+525563;249483;Marseille, France
+2841472;3385419;Pune, India
+6044;4091;South Australia, Australia
+1287;969;Columbia, MD
+11138;6588;United States
+435471;193623;Columbus, OH
+3106062;3734897;India
+142;114;Ireland
+3433751;4191168;Nantes, France
+3908884;4845025;Ahmedabad, Gujarat, India
+4695325;5973753;Bologna, BO, Italia
+255260;93266;Winnipeg, MB, Canada
+1336608;1409765;Bogot&#225; - Bogota, Colombia
+4316;3051;Milwaukee, WI
+673063;342096;Hyderabad, Telangana, India
+4179243;5227735;Venlo, Limburg, The Netherlands
+1033518;948857;Israel
+492847;229700;Atlanta, GA
+2490003;2904173;Atlanta, GA, United States
+927034;888101;Bahia Blanca, Argentina
+484973;224860;Netherlands
+1315039;1382300;Cologne, Germany
+2682200;3173852;India
+2213183;2548989;Vermont
+353612;144506;Puteaux, France
+1934903;2068173;St. Louis, MO
+468305;214371;Germany
+4137;2919;Canada
+2959;2146;Barcelona, Spain
+3319132;4033977;Iran
+2221407;2560294;England, Chesterfield
+5071078;6559444;Karaj, Iran
+5457259;2638307;London, United Kingdom
+1705598;1886487;Budapest, Hungary
+509303;239590;Budapest, Hungary
+157247;52616;United Kingdom
+959874;929789;Arizona, United States
+542091;259304;Cluj-Napoca, Romania
+66956;25893;United States
+3065232;3668752;Chennai,India
+984462;959853;Karachi, Pakistan
+435605;193707;Israel
+2852807;3400512;Islamabad, Islamabad Capital Territory, Pakistan
+1959323;2219557;Jersey City, NJ, United States
+1951139;2208572;New Taipei City, Taiwan
+521799;247217;St. Gallen, Schweiz
+149533;50168;Belgium
+1910189;2154669;Hyderabad, India
+140719;47491;Berlin, Germany
+3711219;1232792;London, UK
+2319798;2685268;Israel
+820666;774364;Germany
+427457;188633;Russia
+1418688;1518241;Los Angeles, CA
+1492421;1614297;New York, United States
+2830986;3371950;London, United Kingdom
+4056516;5052357;Denver, CO, United States
+247243;87416;Palo Alto, CA, United States
+6260170;8332072;Switzerland
+1312208;10119;USA
+2008530;2284076;Porto Alegre, RS, Brasil
+3067211;3682610;India
+2658554;3143594;Mountain View, CA
+771665;403740;The Shire
+902630;485992;Tampa, FL
+7456236;10088526;Trivandrum, Kerala, India
+2917873;3487300;Mexico City, M&#233;xico
+2090489;2390568;Waltham, MA, United States
+738811;383149;Poland
+5015038;6476603;Lebanon
+228370;80867;Salzburg, Austria
+1558022;1072112;Cambridge, United Kingdom
+1114095;1127081;Tacoma, WA
+2262533;2612720;France
+4472048;5651707;Melbourne
+2277240;2631373;Minsk, Belarus
+865883;463158;New York, NY
+1091105;1097916;Singapore
+1697320;1876137;Wroclaw, Poland
+805579;425147;Cork, Ireland
+1328681;1399677;Ibiza, Spain
+878126;796053;Israel
+4671020;1515848;Suomi
+1585;1191;Norway
+157237;52614;California
+610569;302279;Singapore
+345660;139823;San Francisco, CA
+2927540;3500713;Ahmedabad, India
+419391;183787;San Diego, CA, United States
+2672192;3161094;Greece
+1009248;992340;Hildesheim, Germany
+9825;5954;Cape Town, South Africa
+419404;183794;Germany
+230987;82045;Vancouver, Canada
+1033808;1024124;The Netherlands
+565518;273732;St. Petersburg, Russia
+149080;50010;United States
+1630;1228;Singapore, Singapore
+1640038;1801936;India
+6104684;8039326;Belgium
+755319;393458;Malang, Indonesia
+419449;183821;San Francisco, CA, United States
+2508411;2927373;Berlin, Germany
+1666;1254;Auckland, New Zealand
+427653;188744;Israel
+943752;801984;Sri Lanka
+7341705;9917342;Indore
+165520;55292;Bangalore, India
+149138;50030;Vancouver, BC, Canada
+6410520;8554533;Texas
+4318868;5426896;Germany
+332578;132094;United States
+1692;1271;New Zealand
+190303;64475;West Palm Beach, FL
+2754218;1558221;Paris, France
+45066;19281;Las Vegas, NV, United States
+5514765;7226350;Germany
+1623731;1780953;Montevideo, Uruguay
+3458744;4225032;Frankfurt and Seattle
+839967;446740;Colombia, Venezuela
+1427138;1529588;Italy, Ravenna
+1328838;1399867;Belarus
+34509;16029;Frankfurt, Germany
+1190861;1225156;Germany
+1730261;1918137;Clifton, NJ, United States
+1695;1274;Mumbai, India
+1287899;1347434;Egypt
+534238;254676;San Mateo, CA
+50913;21064;Berlin, Germany
+829155;439903;Kyiv City, Kyiv city, Ukraine
+2344897;2717975;Birmingham, AL, United States
+4450024;5619788;Bonansa, Spain
+2066155;2358976;BC, Canada
+4261613;5346091;Amsterdam, Netherlands
+1001199;981631;Cluj-Napoca, Romania
+1763061;1961682;Moscow, Russia
+1943282;2198123;Bhubaneswar, India
+1785;1336;United States
+2230007;2571364;Poland
+75517;28298;Marseille, France
+4327164;2901502;Ho Chi Minh, Vietnam
+4081409;5087251;Sydney, Australia
+771848;403854;New York, United States
+814861;431055;Washington, DC
+2197264;2528420;United Kingdom
+3893016;1515169;Ontario, Canada
+1821;1365;Waterdown, Canada
+1148702;1171636;Pittsburgh, PA, United States
+68571;26373;Barcelona, Spain
+666588;338001;Baltimore, MD
+834525;443359;Silicon Valley
+1845040;2070416;Netherlands, The
+737587;382391;Aachen, Germany
+140937;47565;Israel
+6211385;8259320;Earth City, MO, United States
+438581;195602;Skopje, Macedonia (working remotely)
+190277;64461;Hamilton, Canada
+2131778;2443975;Berlin, Germany
+1009479;992647;Shanghai, China
+7730828;10487942;India
+1066828;1066374;Mumbai, India (Currently in Kuwait)
+3401555;4063653;Warsaw, Poland
+4581200;5809690;United States
+7169871;9662194;San Francisco, CA, United States
+903011;486226;France
+386911;164262;New York
+927588;888835;Sydney, New South Wales, Australia
+599911;295480;London, United Kingdom
+616296;305885;United States
+477037;658903;Bremen, Germany
+191463;64959;United Kingdom
+1320810;1389659;Slovakia
+125816;43105;Moscow, Russia
+2815635;3351691;Nagpur, Maharashtra, India
+753983;392607;Belgium
+8013696;10901571;Germany
+547820;262745;USA
+6162307;8186697;Vienna, Austria
+3000206;3595277;Calgary, AB, Canada
+477068;219919;United States
+690061;352791;California, United States
+575376;279943;Argentina
+4335507;5450560;Antwerpen, Belgi&#235;
+2860949;3411054;Bangkok, Thailand
+1946;1460;Philadelphia, PA
+812970;429855;Dallas, TX
+665518;337315;United States
+596979;293592;London, Canada
+3445065;4206251;Pakistan
+116;97;Piedmont, CA
+5089211;6586628;Shanghai, China
+673730;342531;Bucharest, Romania
+1906816;2150212;Sacramento, CA
+4564945;5785597;Michigan, USA
+1329111;1400187;The Netherlands
+2711672;3211833;Hyderabad, India
+1697755;1876666;Helsinki, Finland
+1062909;1061356;Leeds, United Kingdom
+903137;538250;Cary, NC, United States
+2095244;2396556;Sydney, Australia
+3395921;4140395;New York, NY, United States
+5957287;7884761;New Zealand
+4795584;6151217;Sri Lanka
+2074608;2052845;Sydney, New South Wales, Australia
+305135;116359;My Office
+2664437;3150976;Cologne, Germany
+1908727;2152853;USA
+116395;40193;Walnut Creek, CA, United States
+3704831;4563058;Nashville, TN, United States
+985088;960660;San Jose, CA
+34824;16125;Kansas City, KS
+296974;112612;Saarbr&#252;cken, Saarland, Germany
+2064;1542;San Francisco, CA, United States
+1779735;1983867;District of Columbia
+3378179;4116818;Louvain-la-Neuve, Belgium
+1509401;1635895;The Moon
+2279451;1755420;United Kingdom
+526367;249961;Pakistan
+857776;458085;Lithuania
+305189;116382;Paris, France
+195543;66693;Atlanta, GA
+1624106;1781499;India
+297015;112629;Beamsville, Canada
+2926641;3499581;Russia
+3450939;4214136;Greece
+76722;28649;The Inverse Of Where I&#39;m Not
+321597;125673;Virginia
+2541634;2994917;Mumbai, India
+3016773;3617211;India
+18505;9919;United States
+1837134;2060460;New York, United States
+1233251;1278589;Portugal
+2138;1596;Spain
+356;285;North Carolina
+1414721;1513086;London
+4089949;5100075;Bangalore, Karnataka, India
+18107;9736;Ireland
+99317;35103;New Jersey
+1198201;1234259;West coast, Canada
+1499497;1623389;India
+2525313;2973802;Karlsruhe
+264325;97447;India
+256138;93664;Belgium
+1140876;1161462;Netherlands
+53538;21889;Israel
+3131537;3768809;Pune, India
+2528;1840;Indiana
+223386;78500;Szczecin, Poland
+1476763;1594138;Toronto, Canada
+2435228;2834317;India
+428190;189075;Winnipeg, Canada
+526495;250038;London, UK
+1332934;1404971;Cambodia
+1771682;1973291;Campinas - SP, Brasil
+903336;532252;Buenos Aires, Argentina
+39677;17640;blankville
+157882;52822;Amsterdam, Netherlands
+2238;1662;Finland
+51387;21214;Crevoladossola, Province of Verbano-Cusio-Ossola, Italy
