@@ -11,3 +11,7 @@ you can stop at any time just write down where you stopped so you can start from
 2=maybe<br />
 3=no<br />
 1,2,3,y,m,n are all valid inputs so please stick to those<br />
+Alex = 0-1175<br />
+Divyani = 1176-2350<br />
+Savannah = 2351-3525<br />
+Ty = 3526-4707<br />
