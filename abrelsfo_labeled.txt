@@ -2,3 +2,402 @@ logicalcobwebs.com: 1:2
        majda.cz: 1:2
    honeyman.org: 1:2
  andrewho.co.uk: 1:2
+    ravelry.com: 1:1
+         sul.im: 1:n
+    aquezada.cl: 1:y
+   skrinnik.com: 1:y
+nickhammond.com: 1:y
+incredicorp.com: 1:y
+      fewyn.net: 1:y
+   liisberg.net: 1:y
+masterwebdesign.net: 1:y
+    triveos.com: 1:y
+ moobile.com.br: 1:y
+   kocolosk.net: 1:y
+ grundyhome.com: 1:y
+ davebryand.com: 1:y
+no-distance.net: 1:y
+ mopacmedia.com: 1:y
+        irk.com: 1:y
+   nixeagle.org: 1:m
+   athonlab.com: 1:y
+    jimpick.com: 1:y
+      int42.org: 1:n
+goodonpaper.com: 1:y
+    karelia.com: 1:y
+  porter.net.nz: 1:n
+    dealfore.st: 1:n
+justinreese.com: 1:y
+         gn2.fr: 1:n
+ therubymug.com: 1:y
+  flyupload.com: 1:y
+       plugo.cz: 1:y
+  concept47.com: 1:y
+       alech.de: 1:n
+        v2v.net: 1:y
+    howcast.com: 1:y
+   gnome-de.org: 1:y
+    pritzker.ws: 1:n
+  judocoach.com: 1:y
+    emilkarl.se: 1:n
+ mark-story.com: 1:y
+fly-euroharmony.com: 1:y
+       arles.us: 1:n
+    quipper.com: 1:y
+    lookatme.ru: 1:y
+       ernie.io: 1:n
+    gcarrier.fr: 1:n
+      idibu.com: 1:y
+inaturalist.org: 1:y
+  smartlogic.io: 1:y
+kangaroobox.com: 1:y
+ genlighten.com: 1:y
+benjaminsanders.com: 1:y
+ johntornow.com: 1:y
+ soulware.co.uk: 1:n
+         ku.edu: 1:y
+     swan.ac.uk: 1:y
+     cestona.ro: 1:n
+    hurrell.net: 1:n
+   8thlight.com: 1:y
+   redcursor.de: 1:y
+new-bamboo.co.uk: 1:y
+        matt.tm: 1:n
+arandonohue.com: 1:y
+       brent.is: 1:n
+supervillain.be: 1:y
+        disu.se: 1:n
+   rcrowley.org: 1:y
+jasonwatkins.net: 1:y
+     unicon.net: 1:y
+rousette.org.uk: 1:y
+     adzerk.com: 1:y
+         phx.io: 1:y
+spencermiles.org: 1:y
+     jamesu.net: 1:n
+    arafatm.com: 1:t
+falsepositives.com: 1:n
+  tipmobile.com: 1:y
+         may.lt: 1:n
+sharpdesigns.com: 1:y
+     yuumii.com: 1:y
+   synrg.com.au: 1:y
+weareinstrument.com: 1:y
+adamwiggins.com: 1:y
+    cenatus.org: 1:y
+     gentoo.org: 1:y
+allseeing-i.com: 1:y
+      laafc.net: 1:y
+chrisbrooks.org: 1:n
+    hulette.net: 1:y
+     jerryr.com: 1:y
+ astrochimp.com: 1:y
+   maxidoors.ru: 1:y
+  bitquabit.com: 1:y
+     cheney.net: 1:y
+      badger.la: 1:n
+ unixsherpa.com: 1:y
+kevinchambers.com: 1:n
+smallroomsoftware.com: 1:y
+         jay.fm: 1:n
+igordavydenko.com: 1:n
+    gusl.org.ve: 1:n
+thoughtfulpixel.com: 1:y
+      britg.com: 1:y
+       ukeer.de: 1:y
+     gremme.org: 1:y
+    movieos.org: 1:y
+      colman.io: 1:n
+ericwagoner.com: 1:y
+    ecocode.net: 1:y
+   fiveruns.com: 1:y
+     easypep.de: 1:n
+     ajl959.com: 1:y
+  siberia.co.za: 1:n
+      object.io: 1:n
+pabloformoso.com: 1:y
+ negonicrac.com: 1:y
+sykosomatic.org: 1:y
+ recipher.co.uk: 1:y
+     dweebd.com: 1:y
+tiagofalcao.com: 1:y
+  textninja.net: 1:n
+    audreyt.org: 1:y
+   madglory.com: 1:y
+papermountain.org: 1:y
+pivotallabs.com: 1:y
+rumblestrut.com: 1:n
+ petta-tech.com: 1:y
+        ufpr.br: 1:n
+      heeton.me: 1:n
+        spot.us: 1:n
+       abrah.am: 1:n
+   nfirvine.com: 1:y
+      onehq.com: 1:y
+   ggvaidya.com: 1:y
+  rasterweb.net: 1:n
+  benjiyork.com: 1:y
+general-metrics.com: 1:y
+      farley.io: 1:n
+      mellos.io: 1:n
+fatelectron.net: 1:n
+   nshbrown.com: 1:y
+  fosterlee.com: 1:y
+      hiccup.nl: 1:n
+     bsmyth.net: 1:n
+buddybrewer.com: 1:y
+boscariol.com.br: 1:n
+ richgrundy.com: 1:y
+   sladeczek.de: 1:y
+   gesteves.com: 1:y
+      radify.io: 1:n
+     tarbit.org: 1:y
+  scifihifi.com: 1:y
+     kegan.info: 1:n
+     sunrem.com: 1:y
+lukeredpath.co.uk: 1:n
+refreshaugusta.com: 1:y
+    axai.com.mx: 1:n
+uberchicgeekchick.com: 1:y
+       antob.se: 1:n
+  raymleyva.com: 1:y
+     mihaia.com: 1:y
+nationalcrimesearch.com: 1:y
+      leroy.com: 1:y
+  samsouder.com: 1:y
+  levinalex.net: 1:y
+   maketank.net: 1:y
+         nsm.ee: 1:n
+       e-ix.net: 1:n
+    ahabman.com: 1:t
+cursorinsight.com: 1:y
+      viget.com: 1:y
+ infobright.com: 1:y
+ codedynamic.us: 1:y
+     kotiri.com: 1:y
+graysoftinc.com: 1:y
+     jonnii.com: 1:n
+       dooz.org: 1:n
+ wildfalcon.com: 1:y
+orderedlist.com: 1:y
+        gleu.ch: 1:n
+   corewars.org: 1:y
+   rorra.com.ar: 1:y
+         nd.edu: 1:y
+slumbrparty.com: 1:y
+  reidbeels.com: 1:y
+  funkatron.com: 1:y
+nextquestion.net: 1:n
+nilsjonsson.com: 1:y
+  lisasawin.com: 1:n
+     doris.name: 1:n
+thrownproject.com: 1:n
+    econify.com: 1:n
+nsightdevelopment.com: 1:y
+koontzfamily.org: 1:y
+    carlesm.com: 1:y
+       seuj.com: 1:y
+    stripey.net: 1:y
+jannispohlmann.de: 1:n
+  mattmower.com: 1:y
+        c1r.com: 1:y
+     yahaay.com: 1:y
+ krishworld.com: 1:y
+         c2.com: 1:y
+railsmagazine.com: 1:y
+   tauil.com.br: 1:n
+   reaktor42.de: 1:n
+     apeiros.me: 1:n
+   marburger.cc: 1:n
+ bandes-stor.ch: 1:n
+    vo.racio.us: 1:n
+  logicspin.com: 1:y
+       asynk.ch: 1:n
+     zillode.be: 1:n
+ elevatorup.com: 1:y
+ biaotutech.com: 1:y
+ holmwood.id.au: 1:y
+     bensley.us: 1:n
+  usosim.com.br: 1:n
+    tigrett.net: 1:y
+    incutio.com: 1:y
+ synergyeoc.com: 1:y
+   chadohman.ca: 1:y
+     h3rald.com: 1:y
+ gingercandy.cz: 1:n
+martinschweitzer.com: 1:y
+ codebutler.com: 1:y
+   feldpost.com: 1:y
+edendevelopment.co.uk: 1:n
+    hashdog.com: 1:y
+     yatsu.info: 1:y
+         max.uy: 1:y
+trilogyinteractive.com: 1:n
+      xinja.net: 1:y
+   mundurat.net: 1:y
+digitaltorque.ca: 1:y
+     stripe.com: 1:y
+davidglasser.net: 1:n
+      hyett.com: 1:y
+   scarff.id.au: 1:n
+     stavros.io: 1:n
+sustainableharvest.com: 1:y
+openradical.com: 1:y
+scottraymond.net: 1:y
+       inria.fr: 1:n
+  codequest.com: 1:y
+         bz2.jp: 1:n
+grahamweldon.com: 1:n
+        mgit.at: 1:n
+      upp.or.jp: 1:n
+       okta.com: 1:y
+     tjohns.net: 1:n
+radonfamily.com: 1:n
+    tobyjoe.com: 1:n
+    lacasa.tech: 1:y
+     ndropad.in: 1:n
+webmagnetix.com: 1:y
+intentionally-blank.com: 1:y
+donnerluetjen.de: 1:n
+      kslat.com: 1:y
+      hubler.us: 1:n
+  e2ebridge.com: 1:y
+       donp.org: 1:y
+intoxicated.co.za: 1:n
+detailedbalance.net: 1:y
+  ranganath.com: 1:y
+    osteele.com: 1:y
+     suares.com: 1:y
+   wherever.com: 1:
+    debleser.be: 1:y
+  malintech.net: 1:y
+       bakkdoor: 1:n
+  transifex.com: 1:y
+ thewilliams.ws: 1:n
+   mindlace.net: 1:n
+  retrosync.com: 1:y
+  mindbites.com: 1:y
+   zenotech.com: 1:y
+ andreimaxim.ro: 1:n
+ pensionbee.com: 1:y
+       josue.io: 1:y
+      igpsd.com: 1:y
+    getlydi.com: 1:y
+    damours.org: 1:y
+nickcharlton.net: 1:y
+fernandocorreia.info: 1:y
+    mbelieve.it: 1:n
+      riot9.com: 1:y
+   iunknown.com: 1:n
+  botanicus.net: 1:n
+          greut: 1:n
+     stocad.com: 1:y
+    dedasys.com: 1:y
+jwhardcastle.com: 1:y
+      rdrei.net: 1:y
+uninformation.org: 1:y
+silverbackmarketing.com: 1:y
+weareboomerang.com: 1:y
+        mozo.jp: 1:n
+  bitwelder.com: 1:y
+    lockney.net: 1:y
+      bello.nyc: 1:y
+    tmalvey.com: 1:y
+     twiddr.com: 1:y
+ invetica.co.uk: 1:y
+picologicllc.com: 1:y
+       oumu.org: 1:y
+      enesge.eu: 1:y
+        wnas.nl: 1:
+timcowlishaw.co.uk: 1:y
+marcelmolina.com: 1:y
+      dur.ac.uk: 1:y
+ sneeringer.com: 1:y
+radiantmars.com: 1:y
+       jules.it: 1:y
+rayhightower.com: 1:y
+          mm.st: 1:y
+booleanknot.com: 1:y
+        naqu.in: 1:y
+openmailbox.org: 1:y
+      xtreme.se: 1:y
+    pero-ict.nl: 1:y
+   rojas.com.ve: 1:y
+     nullun.com: 1:y
+   godynamo.com: 1:y
+ appelsiini.net: 1:y
+  nerderati.com: 1:y
+  sutherland.pw: 1:n
+someone.section.me: 1:n
+  memberhub.com: 1:y
+alexandergraefe.de: 1:n
+        nmu.edu: 1:y
+        box.com: 1:y
+robotmodehq.com: 1:n
+   javajosh.com: 1:n
+     samflor.es: 1:n
+     redcact.us: 1:n
+richardkiss.com: 1:y
+   bourgweb.com: 1:y
+danieljackoway.com: 1:n
+     markus.org: 1:y
+  pagerduty.com: 1:y
+    opszero.com: 1:y
+    finagle.org: 1:y
+   merritt.tech: 1:y
+   petekeen.net: 1:y
+   jedbrown.org: 1:n
+       olrik.dk: 1:n
+ blitiri.com.ar: 1:n
+     yongsun.me: 1:n
+     ipv6.dp.ua: 1:n
+ vesavanska.com: 1:n
+wigmore-welsh.com: 1:y
+hypergraphsoftware.com: 1:y
+synapticmishap.co.uk: 1:y
+conandalton.net: 1:y
+technicalpursuit.com: 1:y
+  codesling.com: 1:y
+figarointeractive.com: 1:y
+     pusher.com: 1:y
+    goodlad.net: 1:y
+     edvina.net: 1:
+        bud.com: 1:y
+        czak.pl: 1:y
+robertdfrench.me: 1:n
+  julesfern.net: 1:n
+        debu.gs: 1:n
+      mdsol.com: 1:y
+ gobalistik.com: 1:y
+ thirdstone.net: 1:n
+     veridit.no: 1:n
+        e6h.org: 1:n
+      tron.name: 1:n
+    jackchu.com: 1:n
+ quellhorst.com: 1:n
+ tomlins.org.uk: 1:y
+     fudgie.org: 1:y
+  ingoweiss.com: 1:y
+    stonean.com: 1:y
+     tuenti.com: 1:y
+ hypomodern.com: 1:y
+         gmx.at: 1:n
+ featherpot.com: 1:y
+      shwups.ch: 1:n
+kurokoproject.com: 1:y
+anilwadghule.com: 1:y
+thomasmeeks.com: 1:y
+      prepor.ru: 1:n
+  pixelpost.org: 1:y
+     gmail.ccom: 1:n
+       hodne.io: 1:n
+   colorado.edu: 1:y
+  samaretti.com: 1:y
+robknight.org.uk: 1:y
+    stackly.net: 1:y
+    onomojo.com: 1:y
+urlgonomics.com: 1:y
+     lipcon.org: 1:y
+    jkslade.net: 1:y
+       ri.id.au: 1:n
+chrisvannoy.com: 1:y
