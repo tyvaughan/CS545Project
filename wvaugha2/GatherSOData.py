@@ -1,6 +1,8 @@
 # Ty Vaughan
 # CS 545 - Fall 2017
-# Final Project 
+# Final Project
+
+# This program obtains users from StackAPI.
 
 from stackapi import StackAPI, StackAPIError
 from datetime import datetime
@@ -256,14 +258,15 @@ def GatherUserLocations2():
 
             # Obtain the email info
             bio = soup.find('div', {'class': 'bio'})
-            para = bio.findAll('p', {})
-            if(para != None):
-                for p in para:
-                    text = p.getText()
-                    if('email:' in text):
-                        t = text.strip().split(' ')
-                        email = t[1]
-                        break
+            if(bio != None):
+                para = bio.findAll('p', {})
+                if(para != None):
+                    for p in para:
+                        text = p.getText()
+                        if('email:' in text):
+                            t = text.strip().split(' ')
+                            email = t[1]
+                            break
 
             # Obtain the location info
             lists = soup.findAll('div', {'class': 'user-links'})
