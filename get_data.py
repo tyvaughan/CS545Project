@@ -2,7 +2,7 @@ import requests
 from github import Github
 import json
 
-g = Github("abrelsfo", "Peanuthater132")
+g = Github("", "")
 print(g.get_rate_limit())
 
 with open("since.txt", "r") as f1:
