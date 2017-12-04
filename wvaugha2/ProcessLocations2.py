@@ -321,7 +321,6 @@ if __name__ == "__main__":
 
     #f = open('user_locations.txt','r')
     f = open('alluserprofiles.txt','r')
-    people = 0
     for line in f.readlines():
         line = line.rstrip()
 
@@ -364,10 +363,6 @@ if __name__ == "__main__":
                     if(ret):
                         print userId + ';;' + place
                         people += 1
-                
-                # Only obtain 25,000 people
-                if(people == 25000):
-                    break
 
 
 
